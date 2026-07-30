@@ -1,4 +1,16 @@
 aid: football-standings
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/football-standings.png
 name: Football Standings
 description: "Display football standings e.g epl, la liga, serie a etc. The data is based on espn site"
 url: https://github.com/azharimm/football-standings-api
