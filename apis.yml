@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/football-s
 name: Football Standings
 description: "Display football standings e.g epl, la liga, serie a etc. The data is based on espn site"
 url: https://github.com/azharimm/football-standings-api
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
