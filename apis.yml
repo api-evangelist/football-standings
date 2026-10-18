@@ -41,7 +41,8 @@ apis:
   - name: Football Standings
     description: "Display football standings e.g epl, la liga, serie a etc. The data is based on espn site"
     humanURL: https://github.com/azharimm/football-standings-api
-    tags:
+    tags: []
+    tags_raw:
       - Sports And Fitness
     properties:
       - type: Documentation
